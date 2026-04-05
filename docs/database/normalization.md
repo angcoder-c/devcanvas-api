@@ -1,5 +1,7 @@
 # Proceso de normalización
 
+<img width="2135" height="824" alt="image" src="https://github.com/user-attachments/assets/07a7d21f-4521-45ca-904a-89a5cd011544" />
+
 ## Forma 1NF
 
 ### Entidades
@@ -170,3 +172,5 @@ Testimonial (id, user_id, author_name, author_role, content, rating, created_at)
 ```plaintext
 Message (id, user_id, from_name, from_email, content, read, sent_at)
 ```
+
+<img width="2135" height="824" alt="image" src="https://github.com/user-attachments/assets/11578dfc-22ad-4b0c-b691-4fe7fcd2dcd4" />
