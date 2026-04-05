@@ -173,4 +173,6 @@ Testimonial (id, user_id, author_name, author_role, content, rating, created_at)
 Message (id, user_id, from_name, from_email, content, read, sent_at)
 ```
 
-<img width="2135" height="824" alt="image" src="https://github.com/user-attachments/assets/11578dfc-22ad-4b0c-b691-4fe7fcd2dcd4" />
+<img width="2135" height="824" alt="image" src="https://github.com/user-attachments/assets/28f6369d-6a46-45b2-8c41-6c9cd87ca054" />
+
+<img width="3880" height="1900" alt="relational diagram" src="https://github.com/user-attachments/assets/b73b86b5-e5fe-4f09-bee7-35303a7f9085" />
